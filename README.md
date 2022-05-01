@@ -19,8 +19,8 @@ Seja muito bem vindo(a)!
 
 
 
-<img width="495" alt="FOTO GIT" src="https://user-images.githubusercontent.com/95761131/165197644-23340e4a-1e68-4520-a680-dcb53510651e.PNG">
 
+<img width="245" alt="sulamy foto" src="https://user-images.githubusercontent.com/95761131/166169278-460388ec-535b-48d5-bf25-c312b790e8a3.PNG">
 
 
 
