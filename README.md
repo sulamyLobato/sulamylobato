@@ -1,16 +1,16 @@
-Seja muito bem vindo(a)!
+Bem vindo(a)!
 
 -  Meu nome é Sulamy, trabalho como desenvolvedora full satck java.
 
 
-- 🎓Faço faculdade de  Analise e Desenvolvimento de Sistemas.
+-  Faço faculdade de  Analise e Desenvolvimento de Sistemas.
 
 
 - 😊 Tenho me dedicado a estudar pogramação Java, framework Spring Boot, Angular, Docker, Postman, Sql, JavaScript, AWS.
 
 
-- Sou Nutricionista especialista em nutrição Clinica também. 
-🌱 🍎 
+
+
 
 
 
