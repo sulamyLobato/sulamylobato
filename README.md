@@ -6,7 +6,7 @@ Bem vindo(a)!
 -  Faço faculdade de  Analise e Desenvolvimento de Sistemas.
 
 
-- 😊 Tenho me dedicado a estudar pogramação Java, framework Spring Boot, Angular, Docker, Postman, Sql, JavaScript, AWS.
+- 😊 Tenho me dedicado a estudar linguagem de pogramação Java, framework Spring Boot, Docker, Postman, Sql, JavaScript, AWS.
 
 
 
