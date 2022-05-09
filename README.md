@@ -19,7 +19,7 @@ Bem vindo(a)!
 
 
 
-<img width="245" alt="sulamy foto" src="https://user-images.githubusercontent.com/95761131/166169278-460388ec-535b-48d5-bf25-c312b790e8a3.PNG">
+
 
 
 
