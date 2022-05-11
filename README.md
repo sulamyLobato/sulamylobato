@@ -1,6 +1,6 @@
 Bem vindo(a)!
 
--  Meu nome é Sulamy, trabalho como desenvolvedora full satck java.
+-  Meu nome é Sulamy, trabalho como desenvolvedora Java.
 
 
 -  Faço faculdade de  Analise e Desenvolvimento de Sistemas.
