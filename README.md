@@ -1,23 +1,24 @@
-Bem vindo(a)!
+Bem vindos !!! 👩‍💻
 
--  Meu nome é Sulamy, trabalho como desenvolvedora Java.
-
-
--  Faço faculdade de  Analise e Desenvolvimento de Sistemas.
+Meu nome é Sulamy, trabalho como desenvolvedora Java.
 
 
-- 😊 Tenho me dedicado a estudar linguagem de pogramação Java, framework Spring Boot, Docker, Postman, Sql, JavaScript, AWS.
+ Faço faculdade de  Analise e Desenvolvimento de Sistemas.
+
+
+😊 Tenho me dedicado a estudar linguagem de pogramação Java, framework Spring Boot, Docker, Postman, Sql, JavaScript, AWS.
 
 
 
-- ⚡ STATUS DO MEU GIT..
 
-- TECNOLOGIAS
+
+♥️ Tecnologias   ⚡ STATUS DO MEU GIT..
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
 
 
